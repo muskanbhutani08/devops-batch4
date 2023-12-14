@@ -1,1 +1,2 @@
 command in github file
+command 2 in github file
